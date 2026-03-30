@@ -109,7 +109,7 @@ Single button at bottom-right, dual-state:
 
 ### wrangler.toml (production)
 ```toml
-name = "jamie-jake-wedding"
+name = "my-wedding"
 compatibility_date = "2024-12-01"
 pages_build_output_dir = "dist"
 
