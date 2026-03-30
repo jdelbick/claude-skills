@@ -172,14 +172,14 @@ Each card has: icon, title, 3–4 lines of detail, one link.
   <div class="info-card">
     <svg class="info-card__icon"><!-- pin icon --></svg>
     <h3>The Venue</h3>
-    <p>Villa Montalvo<br>15400 Montalvo Road<br>Saratoga, CA 95070</p>
+    <p>Napa</p>
     <a href="/logistics">Get Directions →</a>
   </div>
   <!-- Date card, Registry card -->
 </div>
 ```
 
-## Flappy Jake Easter Egg
+## Flappy Bird Easter Egg
 
 A Flappy Bird clone hidden behind a "Games" link in the footer. Uses:
 - HTML5 Canvas for the game
