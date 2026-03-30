@@ -8,8 +8,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Wedding//Wedding//EN
 BEGIN:VEVENT
-DTSTART:20250528T160000
-DTEND:20250801T220000
+DTSTART:20280528T160000
+DTEND:20280801T220000
 SUMMARY:My Wedding
 DESCRIPTION:Ceremony at 4:00 PM · Cocktail Hour at 4:45 PM · Reception at 6:00 PM
 LOCATION:Napa
@@ -23,7 +23,7 @@ Dates are in `YYYYMMDDTHHmmss` local time format, or append `Z` for UTC.
 ```
 https://calendar.google.com/calendar/render?action=TEMPLATE
   &text=NAME+%26+NAME%27s+Wedding
-  &dates=20270731T230000Z%2F20270801T060000Z   ← UTC times
+  &dates=20280528T230000Z%2F20280801T060000Z   ← UTC times
   &details=Ceremony+at+4%3A00+PM...
   &location=VENUE+ADDRESS
 ```
