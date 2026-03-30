@@ -28,6 +28,7 @@ Before writing any code, ask the couple:
 9. Photos — at minimum a hero/home photo + engagement photos
 10. Site password(s) — main password for all guests, optionally a fun alternate
 11. Custom domain (if any)
+12. **Inspiration** — any wedding websites they love, Pinterest boards, or aesthetic references (colors, vibes, photos). This is one of the most important inputs for the design. If they have a Pinterest board, ask them to share the link or describe the overall feel: romantic/rustic/modern/minimalist/garden party/etc.
 
 ## Tech Stack
 
