@@ -1,0 +1,19 @@
+{
+  "_comment": "Per-million-token USD pricing. Verify against https://platform.claude.com/docs/en/pricing before trusting for real budget decisions -- this file is a cached snapshot, not a live price feed. Cache write/read prices are not listed per-model because they are a fixed multiplier on the input price (see cache_multipliers below), per https://platform.claude.com/docs/en/build-with-claude/prompt-caching.",
+  "_snapshot_date": "2026-07-12",
+  "cache_multipliers": {
+    "write_5m": 1.25,
+    "write_1h": 2.0,
+    "read": 0.1
+  },
+  "models": {
+    "claude-fable-5": { "input": 10.00, "output": 50.00 },
+    "claude-mythos-5": { "input": 10.00, "output": 50.00 },
+    "claude-opus-4-8": { "input": 5.00, "output": 25.00 },
+    "claude-opus-4-7": { "input": 5.00, "output": 25.00 },
+    "claude-opus-4-6": { "input": 5.00, "output": 25.00 },
+    "claude-sonnet-5": { "input": 2.00, "output": 10.00, "_comment": "Introductory price through 2026-08-31; reverts to 3.00/15.00 after." },
+    "claude-sonnet-4-6": { "input": 3.00, "output": 15.00 },
+    "claude-haiku-4-5": { "input": 1.00, "output": 5.00 }
+  }
+}
